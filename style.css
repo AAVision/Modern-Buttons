@@ -123,6 +123,12 @@
     .cp-text{
 		color: rgba(0,0,0,.7);
 		text-align: center;
+		font-weight: bold;
 		text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+
+	}
+
+	.cp-text .name{
+		color:#d81c3f;
 	}
 
